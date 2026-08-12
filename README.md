@@ -52,7 +52,3 @@ Leads-Tracker-Extension/
 - [ ] Add timestamps and lead notes/tags
 - [ ] Export saved leads to CSV
 - [ ] Search/filter saved leads
-
-## License
-
-No license specified yet — consider adding one (e.g. MIT) if you plan to share or open this project up for contributions.
